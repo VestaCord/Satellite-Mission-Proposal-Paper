@@ -9,13 +9,13 @@
 ## Preview
 
 <div align="center">
-  <a href="https://github.com/VestaCord/satellite-mission-proposal-paper/Satellite_Mekong_Mission.pdf">
-    <img alt="Page 1 of Mission Proposal" src="https://github.com/VestaCord/satellite-mission-proposal-paper/examples/abstract-0.png" />
+  <a href="https://github.com/VestaCord/Satellite-Mission-Proposal-Paper/blob/main/Satellite_Mekong_Mission.pdf">
+    <img alt="Page 1 of Mission Proposal" src="/examples/abstract-0.png" />
   </a>
-  <a href="https://github.com/VestaCord/satellite-mission-proposal-paper/Satellite_Mekong_Mission.pdf">
+  <a href="https://github.com/VestaCord/Satellite-Mission-Proposal-Paper/blob/main/Satellite_Mekong_Mission.pdf">
     <img alt="Page 2 of Mission Proposal" src="https://github.com/VestaCord/satellite-mission-proposal-paper/examples/abstract-1.png" />
   </a>
-    <a href="https://github.com/VestaCord/satellite-mission-proposal-paper/Satellite_Mekong_Mission.pdf">
+  <a href="https://github.com/VestaCord/Satellite-Mission-Proposal-Paper/blob/main/Satellite_Mekong_Mission.pdf">
     <img alt="Page 3 of Mission Proposal" src="https://github.com/VestaCord/satellite-mission-proposal-paper/examples/abstract-2.png" />
   </a>
 
